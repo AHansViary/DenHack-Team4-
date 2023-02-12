@@ -1,1 +1,4 @@
+The dataset are taken from the syllabus of City University of Hong Kong and McGill University, Canada. 
 
+The tests are limited to only math courses, and please make sure to change the directory once using the source python.
+There are some data that can't be found during the time of the year, therefore all the raw data is taken as an input.
